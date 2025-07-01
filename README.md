@@ -1,4 +1,4 @@
-# Advanced AI Career Advisor
+# 💡 Advanced AI Career Advisor
 
 A comprehensive AI-powered platform designed to assist job seekers in optimizing their career prospects. This application offers tools for resume analysis, ATS scanning, interview preparation, skill gap identification, and personalized career guidance.
 
